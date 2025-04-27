@@ -8,3 +8,10 @@ print('cows')
 print('cows')
 print('cows')
 
+print('sheep')
+print('sheep')
+print('sheep')
+print('sheep')
+print('sheep')
+print('sheep')
+
